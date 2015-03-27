@@ -11,5 +11,5 @@ The following needs have to be fulfilled to ensure that your enabler is compatib
 - there has to be a file named "playground.json" in the root of your GitHub repository that contains the fields specified in [playground.json](playground.json)
   - the field "path" contains the path from your repositories root to the folder containing the client site code
   - the field "file" contains the name of your client site starting-file in the folder that contains the client site code (likely "index.html")
-- you should provide a config.json (see [playground.json](public_html/config.json)) in your folder with client site code that configures the client and its connection to your backend
+- you should provide a config.json (see [config.json](public_html/config.json)) in your folder with client site code that configures the client and its connection to your backend
  
