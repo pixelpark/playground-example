@@ -19,6 +19,6 @@ The following needs have to be fulfilled to ensure that your enabler is compatib
 
 - [PPnet](https://github.com/pixelpark/ppnet)
 - [XML3D](https://github.com/dirkk0/simpleXML3D)
-
+- [POIProxy](https://github.com/Prodevelop/POIProxy-playground)
 
  
