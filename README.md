@@ -12,7 +12,7 @@ The following needs have to be fulfilled to ensure that your enabler is compatib
 3. there has to be a file named "playground.json" in the root of your GitHub repository that contains the fields specified in [playground.json](playground.json)
   - the field "path" contains the path from your repositories root to the folder containing the client site code
   - the field "file" contains the name of your client site starting-file in the folder that contains the client site code (likely "index.html")
-4. you should provide a config.json (see [config.json](public_html/config.json)) in your folder with client side code that configures the client and its connection to your backend (typically called 'www' or 'html')
+4. you should provide a config.json (see [config.json](public_html/config.json)) in your folder with client side code (typically called 'www' or 'html') that configures the client and its connection to your backend. If you haven't anything to configure, you can omit the file.
 5. tell us when you are ready by creating an issue or a pull request to this readme.
 
 (Pro-tipp: you can create a pull request by simply clicking on README.md and chosing 'edit' in the top bar. By saving Github creates a pull request fo you then.)
